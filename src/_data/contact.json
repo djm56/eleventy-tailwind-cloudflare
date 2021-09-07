@@ -1,20 +1,11 @@
 {
-    "items": [
-        {
-            "name": "test@example.com",
-            "link": "mailto:test@example.com"
+    "items": [{
+            "name": "donovan@anomalous.co.za",
+            "link": "mailto:donovan@anomalous.co.za"
         },
         {
-            "name": "Twitter",
-            "link": "https://twitter.com/…"
-        },
-        {
-            "name": "GitHub",
-            "link": "https://github.com/…"
-        },
-        {
-            "name": "CodePen",
-            "link": "https://codepen.io/…"
+            "name": "Anomalous GitHub",
+            "link": "https://github.com/AnomalousSA"
         }
     ]
 }
